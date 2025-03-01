@@ -1,1 +1,1 @@
-/packages/README.md
+[Go](/packages/README.md)
